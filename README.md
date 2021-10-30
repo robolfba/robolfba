@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **robolfba/robolfba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![portada](https://user-images.githubusercontent.com/62101555/139557355-aa96125c-5a81-456c-85d8-13d5bb84e3ea.png)
+
+#### ⚡ Gracias por visitar mi perfil, acá vas a encontrar proyectos en los que fui trabajando.
+
+
