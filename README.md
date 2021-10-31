@@ -1,23 +1,10 @@
-
-
-<!--
-**robolfba/robolfba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![portada](https://user-images.githubusercontent.com/62101555/139587734-d2af36ed-f7f6-461c-b550-31186f0286a8.png)
 ***
-### [Bienvenido/a](https://github.com/robolfba/robolfba/edit/main/README.md) :call_me_hand:
- **Gracias por visitar mi perfil, acá vas a encontrar todos los proyectos en los que trabajé.**
+### Bienvenido/a :call_me_hand:
+ **Gracias por visitar mi perfil, acá vas a encontrar todos los proyectos en los que trabajé.**  
+ **Para contactarnos podemos hacerlo a través de:**
+###### [LinkedIn](https://www.linkedin.com/in/roberto-robol-794686215/)
+###### [WhatsApp](https://wa.me/+5492804629362)
 ***
 
 
