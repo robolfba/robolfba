@@ -1,4 +1,5 @@
-![portada](https://user-images.githubusercontent.com/62101555/139587734-d2af36ed-f7f6-461c-b550-31186f0286a8.png)
+![Perfil-GitHub](https://user-images.githubusercontent.com/62101555/146818426-5cc72c39-5471-4040-8339-b7b56f68f967.png)
+
 ***
 ### Bienvenido/a :call_me_hand:
  **Gracias por visitar mi perfil, acá vas a encontrar todos los proyectos en los que trabajé.**  
